@@ -1,0 +1,19 @@
+{
+  "name": "file-system",
+  "version": "1.0.0",
+  "description": "",
+  "main": "directory.js",
+  "scripts": {
+    "test": "node node_modules/mocha/bin/mocha"
+  },
+  "author": "",
+  "license": "",
+  "dependencies": {
+    "chai": "^3.5.0",
+    "chai-string": "^1.2.0",
+    "mocha": "^2.4.5"
+  },
+  "directories": {
+    "test": "test"
+  }
+}
